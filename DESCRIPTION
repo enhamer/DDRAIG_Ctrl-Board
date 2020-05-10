@@ -1,0 +1,19 @@
+<b>DDRAIG - Control - Board<br>
+Part of ENHAMER project</b><br>
+<br>
+<b>Design:</b> Marcin J. Krasny<br>
+<b>mail:</b> m.j.krasny@gmail.com<br>
+<b>initial create:</b> 05.10.2018<br>
+
+<BR>
+Board with connectors and switches to help with the automated measurements<br>
+<br>
+<B>INPUT:</B><br>
+Input from Piezoelectric/Pyroelectric device<br>
+V max: Up to 200/250 Vac<br>
+<br>
+
+<b>Communication with external controller</b><br>
+D-sub-9 socket <br>
+Signal logic 0 - 5 V <br>
+
